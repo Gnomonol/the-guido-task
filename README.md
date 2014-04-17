@@ -38,7 +38,10 @@ Where do I get the data?
 
  - note: don't freak out if you get a lot more data returned than what we've shown above. the output was truncated to only show the parts that we're interested in
 
-Filelisting
+Filelisting:
+   - GitGuido.py
+     - this is where you'll put your GitGuido class
+      
    - run.py
      - imports the GitGuido class and runs its methods
      - we've included this file for you
