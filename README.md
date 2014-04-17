@@ -24,19 +24,19 @@ Create a Python class that uses GitHubs RESTful API to retrieve Guido van Rossum
     ##### Class Methods
     The GitGuido class should define the following methods
 
-    ###### __init__
+    ###### ``__init__``
       - class constructor that will retrieve the github account info
 
-    ###### get_name
+    ###### ``get_name``
       - returns guido's name
 
-    ###### get_username
+    ###### ``get_username``
       - returns guido's username
 
-    ###### get_joined
+    ###### ``get_joined``
       - returns the date guido's account was created
 
-    ###### get_account_age
+    ###### ``get_account_age``
       - returns (in days) the age of the account
 
 #### run.py
