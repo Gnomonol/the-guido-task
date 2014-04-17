@@ -51,7 +51,7 @@ Create a Python class that uses GitHubs RESTful API to retrieve Guido van Rossum
       - come up with 2 more tests using any data regarding Guido's account information
 
 #### bonus.py (Bonus Task)
-  - create a commandline script that takes any github username and prints out similar account information
+  - create a command line script that takes any github username and prints out similar account information
   - example:
        
 ```
