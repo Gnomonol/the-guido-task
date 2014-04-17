@@ -5,7 +5,7 @@ In this exercise, you'll create a Python class that interacts with a  RESTful AP
 To start,  please do the following:
 
  - create a public github account, if you don't already have one
- - fork this repository
+ - fork this repository (https://help.github.com/articles/fork-a-repo)
 
 The task at hand:
  - create a python class that defines a single class called GitGuido
