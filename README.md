@@ -71,7 +71,7 @@ When you’re happy with your work, check it in to your forked repository and op
 ### Where do I get the data?
 
   - using GitHub's API, you will need retrieve the account information for Guido van Rossum (gvanrossum)
-  - example using the commandline:
+  - example using the command line:
 
          > curl -i https://api.github.com/users/gvanrossum
 
