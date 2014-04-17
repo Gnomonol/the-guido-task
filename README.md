@@ -63,6 +63,9 @@ joined: 2012-11-26T18:46:40Z
 age: 20 days
 ```
 
+## Submitting
+When you’re happy with your work, check it in to your forked repository and open a [pull request] (https://help.github.com/articles/creating-a-pull-request)
+
 ## FAQ
 
 ### Where do I get the data?
