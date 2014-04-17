@@ -47,7 +47,8 @@ Filelisting:
      - we've included this file for you
 
    - test.py
-     - tests for the GitGuido class
+     - this is where you write the tests for the GitGuido class.
+     - test list:
        - test that get_name returns a string that is equal to "Guido van Rossum"
        - test that get_username returns a string that is equal to "gvanrossum"
        - come up with 2 more tests using any data regarding Guido's account
