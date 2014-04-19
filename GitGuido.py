@@ -5,7 +5,7 @@ import subprocess
 
 
 class GitGuido(object):
-	"""docstring for GitGuido"""
+	""" A class that determines the Github account information of Guido van Rossum. """
 	def __init__(self):
 		command = 'curl https://api.github.com/users/gvanrossum'
 		a = subprocess.Popen(command, shell=True, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, close_fds=True)
