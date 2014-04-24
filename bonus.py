@@ -38,8 +38,9 @@ class GitGuido(object):
 		current_date = date(int(get_date[6:10]), int(get_date[3:5]),int(get_date[:2]))
 		return (current_date-created_date).days
 
-user = GitGuido()
-print("name: {name}".format(name=user.get_name()))
-print("username: {username}".format(username=user.get_username()))
-print("joined: {joined}".format(joined=user.get_joined()))
-print("age: {days} days".format(days=user.get_account_age()))
+if __name__ == '__main__':
+	user = GitGuido()
+	print("name: {name}".format(name=user.get_name()))
+	print("username: {username}".format(username=user.get_username()))
+	print("joined: {joined}".format(joined=user.get_joined()))
+	print("age: {days} days".format(days=user.get_account_age()))
